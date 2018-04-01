@@ -4,8 +4,8 @@
 > demo中的用例以百度的api store为例（具体查看：[百度api商城](http://apistore.baidu.com/)）
 
 ## 运行
-1. IDE工具直接执行testng.xml(以testng形式运行)即可（ide工具需要先装好testng插件）。
-2. maven执行：mvn test.
+1. IDE工具直接执行testng.xml(以testng形式运行)即可（推荐使用IDEA 已经自带testNG plugin）。
+2. gradle执行： gradle test (或者maven执行：mvn test.）
 
 ## 执行报告查看
 1. testng.xml执行可视化报告：${workspace}/test-output/index.html
