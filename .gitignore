@@ -1,0 +1,8 @@
+/target/
+/test-output/
+/build/
+/.gradle/
+/.vscode/
+
+
+
